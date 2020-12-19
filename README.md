@@ -12,3 +12,11 @@ npm i
 react-native run-ios
 
 ```
+
+```
+FlexBox tutorial
+https://www.youtube.com/watch?v=R2eqAgR_KlU&ab_channel=TheNetNinja
+
+The Net Ninja Tutorial
+
+```
